@@ -1,0 +1,47 @@
+body{
+	font: 16px Helvetica, Sans-Serif;
+	background-color: #d6c1ae;
+}
+
+#pic{
+	float: right;
+}
+
+#Main{
+	width: 700px;
+	margin: 10px auto 10px;
+	padding: 10px 75px 10px 75px;
+	background-color: #ffffff;
+}
+
+#contact{
+	margin: 0 0 16px 0;
+	padding: 0 0 16px 0;
+	font-size: 42px;
+	font-weight: bold;
+	letter-spacing: -2px;
+	border-bottom: 1px solid #999;
+}
+
+#summarytext{
+	margin: 16px 16px 16px 16px;
+	padding: 16px 16px 16px 16px;
+	font-size: 20px;
+}
+
+#jobheader{
+	font-size: 28px;
+}
+
+.date{
+	float: right;
+}
+
+h3{
+	border-bottom: 2px dotted;
+}
+
+h4{
+	margin: 0px auto 0px auto;
+	text-decoration: underline;
+}
